@@ -5,7 +5,7 @@
 
 # The Dataset: WA_Fn-UseC_-HR-Employee-Attrition
 
-# The Question: Can certain characteristics of a person predict whether they will remain employed within an organization or choose to leave the organization?
+# The Question: Can certain person’s characteristics predict whether they will choose to remain employed within an organization or leave the organization?
 
 import pandas as pd
 import numpy as np
